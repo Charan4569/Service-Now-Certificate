@@ -10,3 +10,13 @@ ServiceNow Certified System Administrator (CSA)
 
 >> Validated ability to implement best practices for ServiceNow development and administration.
 
+
+
+ServiceNow Certified Application Developer
+
+
+
+>> Demonstrated proficiency in designing and developing custom applications on the ServiceNow platform. 
+
+>> Skilled in implementing client scripts, business rules, UI policies, and data models. Expertise includes workflow automation, form design, and integrating third-party applications. Familiar with ServiceNow Studio, security models, and best practices for scalable, maintainable applications.
+
